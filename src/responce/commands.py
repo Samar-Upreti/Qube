@@ -1,0 +1,25 @@
+def open_command():
+    open_commands = {
+    "open youtube": "https://www.youtube.com/",
+    "open google": "https://www.google.com/",
+    "open github": "https://github.com/",
+    "open facebook": "https://www.facebook.com/",
+    "open instagram": "https://www.instagram.com/",
+    "open twitter": "https://twitter.com/",
+    "open linkedin": "https://www.linkedin.com/",
+    "open reddit": "https://www.reddit.com/",
+    "open whatsapp": "https://web.whatsapp.com/",
+    "open gmail": "https://mail.google.com/",
+    "open google drive": "https://drive.google.com/",
+    "open google maps": "https://maps.google.com/",
+    "open chatgpt": "https://chatgpt.com/",
+    "open netflix": "https://www.netflix.com/",
+    "open amazon": "https://www.amazon.com/",
+    "open spotify": "https://open.spotify.com/",
+    "open stack overflow": "https://stackoverflow.com/",
+    "open microsoft": "https://www.microsoft.com/",
+    "open wikipedia": "https://www.wikipedia.org/",
+    "open bing": "https://www.bing.com/",
+    "open discord": "https://discord.com/",
+}
+    return open_commands
