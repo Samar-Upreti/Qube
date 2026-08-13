@@ -2,7 +2,7 @@ import pyttsx3 as speek
 
 engine = speek.init()
 
-def qube_voice(message):
+def voice(message):
 
     engine.say(message)
     engine.runAndWait()
